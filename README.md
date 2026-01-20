@@ -17,13 +17,13 @@
 
 **No coding needed! For everyone.**
 
-## 👥 Join Waitlist
-[info@paieralabs.com](https://paieralabs.com) - Get early access!
+### Join Waitlist
+[paieralabs.com](https://paieralabs.com) - Get early access!
 
 ## ❤️ Support Us
 1. ⭐ **Star this project** (button above)
 2. Share with friends who care about privacy
-3. Follow [@paieralabs](https://twitter.com/paieralabs)
+3. Follow [@Paieralabs] (https://x.com/Paieralabs) 
 
 ---
 
