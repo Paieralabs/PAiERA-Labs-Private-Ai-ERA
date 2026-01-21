@@ -25,6 +25,7 @@
 2. Share with friends who care about privacy
 3. Follow [@Paieralabs] (https://x.com/Paieralabs) 
 
----
+## For Investors
+See detailed investment overview: [INVESTORS.md](INVESTORS.md)
 
 *Made for people who believe privacy matters.*
