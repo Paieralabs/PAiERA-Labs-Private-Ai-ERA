@@ -10,7 +10,7 @@
 - 🧠 **Remembers Everything** - Your life, calendar, contacts
 - ⚡ **Fast** - Instant responses (M3 Max: 25 tokens/sec)
 
-## 📦 Easy Installation (Coming Feb 28)
+## 📦 Easy Installation (Coming Mar 26)
 1. Download app
 2. Install (3 clicks)
 3. Start talking to your AI
