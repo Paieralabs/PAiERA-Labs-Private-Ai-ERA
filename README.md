@@ -2,7 +2,7 @@
 
 **100% offline AI that lives on your computer. Knows your life. Never sends data to internet.**
 
-## 🚀 Launch: February 28, 2026
+## 🚀 Launch: March, 2026
 
 ## ✨ Why Different?
 - 🔒 **100% Private** - Data stays on your device
