@@ -58,7 +58,7 @@ We create new category: **Sovereign Personal AI**
 - MVP fully functional (Jan 2026)
 - 7-layer memory system complete
 - Local LLM integration working
-- Launch: February 28, 2026
+- Launch: March, 2026
 
 ## Funding
 Seeking $500K for:
@@ -73,7 +73,7 @@ Seeking $500K for:
 - Deep expertise in offline systems
 
 ## Timeline
-- **Feb 28, 2026:** Public launch
+- **Mar, 2026:** Public launch
 - **Q2 2026:** 10,000 users target
 - **Q3 2026:** Enterprise version
 - **Q4 2026:** Plugin ecosystem
